@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering Physics, Cornell University, 2011
+* Ph.D in Physics, University of Wisconsin, Jan. 2020 (expected)
 
+{% comment %}
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -26,7 +26,8 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+{% endcomment %}
+
 Skills
 ======
 * Skill 1
