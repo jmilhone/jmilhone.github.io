@@ -45,7 +45,7 @@ accessed by clicking on Edit -> Edit Global Settings
 If you want to change the tree name or server address, you can change them by clicking on Edit -> Edit Global Settings
 to change them.
 
-![Edit Configuration Window](/source/images/edit_configuration.png)*Edit configuration dialog box
+![Edit Configuration Window](/images/edit_configuration.png)*Edit configuration dialog box
 accessed by clicking on Edit -> Edit Configuration
 
 Here you have access to changing the following attributes for a given plot/axis:
