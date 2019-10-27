@@ -1,10 +1,8 @@
 ---
 title: "Detecting Pulsars"
-excerpt: "Detecting pulsars using logistic regression"
+excerpt: "Detecting pulsars using logistic regression.<br/><img src='/images/output_21_0.png' width='500'>"
 collection: portfolio
 ---
-
-# Detecting Pulsars!
 
 I found this dataset for pulsars on kaggle. The data is a sample from data collected during the High Time Resolution Universe Survey. Pulsars can be hard to detect because of radio frequency interference (RFI) and noise. I wanted to see how well I could detect pulsars in this imbalanced dataset using logistic regression. I could have used more sophisticated methods such as random forests and support vector machines, but I wanted to see how well a simplier model worked. The dataset is descibed below.
 
