@@ -1,6 +1,6 @@
 ---
 title: "Training a Generative Adversarial Network (GAN)"
-excerpt: "I try to train a GAN on the LSUN bedroom dataset.<br/><img src='/images/gan_final_image.png'>"
+excerpt: "I try to train a GAN on the LSUN bedroom dataset.<br/><img src='/images/gan_image_final.png'>"
 collection: portfolio
 ---
 
